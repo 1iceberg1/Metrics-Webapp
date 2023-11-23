@@ -106,7 +106,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd Metrics-Webapp
-  git clone https://github.com/Rhaegar121/Metrics-Webapp
+  git clone https://github.com/1iceberg1/Metrics-Webapp
 
 ### Install
 
@@ -153,12 +153,11 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Kaung Myat Kyaw**
+👤 **Aleksander Karlsen**
 
-- Portfolio: [rhbarry.me](https://rhbarry.me)
-- GitHub: [Rhaegar121](https://github.com/Rhaegar121)
-- Twitter: [Rhaegar121](https://twitter.com/Rhaegar121)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kaungmyatkyaw/)
+- Portfolio: [akiceberg.me](https://akiceberg.me)
+- GitHub: [1iceberg1](https://github.com/1iceberg1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aleksanderkarlsen/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
